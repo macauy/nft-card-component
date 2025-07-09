@@ -11,7 +11,7 @@ Because this was a styling exercise, I tried to follow the original design as cl
 ## 🚀 Live Preview
 
 👉 [Live site here](https://macauy.github.io/nft-card-component/)  
-👉 [Solution page](https://your-frontendmentor-solution-url.com)
+👉 [Solution page](https://www.frontendmentor.io/solutions/nft-card-preview---built-with-tailwind-css-P-dKsJNTcr)
 
 ## 🛠️ Built with
 
